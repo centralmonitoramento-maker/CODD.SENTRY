@@ -1,0 +1,10 @@
+{
+  "name": "Remix Registro de Eventos - Monitoramento",
+  "description": "Sistema integrado de monitoramento e prevenção de perdas com Ronda Mobile, Central CFTV, Fila de Despacho com SLA, Módulo de Gestão de Rotina Preventiva e Gamificação com Leaderboard, e Dashboard Gerencial.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
